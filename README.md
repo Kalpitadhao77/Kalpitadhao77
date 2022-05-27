@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kalpit_adhao
-- 👀 I’m interested in ...ML,Animation & 3D Modelling
+- 👀 I’m interested in ...ML,Blockchain,Animation & 3D Modelling
 - 🌱 I’m currently learning ...ML,Data structure and Algorithms,Animation,VFX
 - 💞️ I’m looking to collaborate on ...helping in projects
 - 📫 How to reach me ...kalpitadhao1@gmail.com
